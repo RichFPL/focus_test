@@ -1,0 +1,16 @@
+body {
+   width: auto;
+   margin: auto;   
+}
+.bg-dark {
+    background-color: #736D6D;
+    width: 1440px;
+    height: 1080px;
+}
+.container h1 {
+    margin-top: 0;
+    margin-left: 0;
+    text-align: center;
+}
+.container {
+}
